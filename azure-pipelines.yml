@@ -15,6 +15,6 @@ steps:
 - task: MSBuild@1
   inputs:
     solution: '**/*.sln'
-    platform: 'win-x64'
+    platform: 'Any CPU'
     configuration: 'Release'
     clean: true
