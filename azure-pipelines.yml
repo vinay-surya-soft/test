@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: Local Machine
+pool: LocalMachine
 
 variables:
   buildConfiguration: 'Release'
