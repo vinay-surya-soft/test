@@ -1,0 +1,14 @@
+D:\Apps\vinay-surya-soft\test\.git\Test\bin\Debug\net7.0\Test.exe
+D:\Apps\vinay-surya-soft\test\.git\Test\bin\Debug\net7.0\Test.deps.json
+D:\Apps\vinay-surya-soft\test\.git\Test\bin\Debug\net7.0\Test.runtimeconfig.json
+D:\Apps\vinay-surya-soft\test\.git\Test\bin\Debug\net7.0\Test.dll
+D:\Apps\vinay-surya-soft\test\.git\Test\bin\Debug\net7.0\Test.pdb
+D:\Apps\vinay-surya-soft\test\.git\Test\obj\Debug\net7.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apps\vinay-surya-soft\test\.git\Test\obj\Debug\net7.0\Test.AssemblyInfoInputs.cache
+D:\Apps\vinay-surya-soft\test\.git\Test\obj\Debug\net7.0\Test.AssemblyInfo.cs
+D:\Apps\vinay-surya-soft\test\.git\Test\obj\Debug\net7.0\Test.csproj.CoreCompileInputs.cache
+D:\Apps\vinay-surya-soft\test\.git\Test\obj\Debug\net7.0\Test.dll
+D:\Apps\vinay-surya-soft\test\.git\Test\obj\Debug\net7.0\refint\Test.dll
+D:\Apps\vinay-surya-soft\test\.git\Test\obj\Debug\net7.0\Test.pdb
+D:\Apps\vinay-surya-soft\test\.git\Test\obj\Debug\net7.0\Test.genruntimeconfig.cache
+D:\Apps\vinay-surya-soft\test\.git\Test\obj\Debug\net7.0\ref\Test.dll
